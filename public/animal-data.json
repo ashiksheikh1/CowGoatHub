@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "name": "Deshi Shahi Cow",
+    "type": "Cow",
+    "breed": "Local Deshi",
+    "price": 120000,
+    "weight": 280,
+    "age": 3,
+    "location": "Bogura",
+    "description": "Healthy deshi cow suitable for Qurbani. Well fed with natural",
+    "image": "https://i.ibb.co/35NmLLK2/image6.png",
+    "category": "Large Animal"
+  },
+  {
+    "id": 2,
+    "name": "Sahiwal Premium Cow",
+    "type": "Cow",
+    "breed": "Sahiwal",
+    "price": 150000,
+    "weight": 320,
+    "age": 4,
+    "location": "Rajshahi",
+    "description": "High quality Sahiwal cow, perfect for Qurbani",
+    "image": "https://i.ibb.co/0j7jKNfz/francois-germain-Ap-LSGTbby-QU-unsplash.jpg",
+    "category": "Large Animal"
+  },
+   {
+    "id": 3,
+    "name": "Black Bengal Goat",
+    "type": "Goat",
+    "breed": "Black Bengal",
+    "price": 25000,
+    "weight": 35,
+    "age": 2,
+    "location": "Rajshahi",
+    "description": "Healthy Black Bengal goat, very popular for Qurbani ।",
+    "image": "https://i.ibb.co/KcHPT2HC/goat1.webp",
+    "category": "Small Animal"
+  },
+  {
+    "id": 4,
+    "name": "Jamunapari Goat",
+    "type": "Goat",
+    "breed": "Jamunapari",
+    "price": 40000,
+    "weight": 45,
+    "age": 3,
+    "location": "Dhaka",
+    "description": "Healthy Black Bengal goat, very popular for Qurbani",
+    "image": "https://i.ibb.co/VWJLkv71/nandhu-kumar-j-AMc-Ubs-Tv-WE-unsplash.jpg",
+    "category": "Small Animal"
+  },
+  {
+    "id": 5,
+    "name": "Holstein Dairy Cow",
+    "type": "Cow",
+    "breed": "Holstein Friesian",
+    "price": 180000,
+    "weight": 350,
+    "age": 5,
+    "location": "Dhaka",
+    "description": "Large size Holstein cow, healthy",
+    "image": "https://i.ibb.co/gFXCKjXv/david-benes-sr-Rc5-F5oo38-unsplash.jpg",
+    "category": "Large Animal"
+  },
+  {
+    "id": 6,
+    "name": "Brahman Strong Cow",
+    "type": "Cow",
+    "breed": "Brahman",
+    "price": 200000,
+    "weight": 400,
+    "age": 4,
+    "location": "Khulna",
+    "description": "Strong Brahman breed",
+    "image": "https://i.ibb.co/vxDrx1Hn/lorenzo-lamonica-JH5l-sr-MYQg-unsplash.jpg",
+    "category": "Large Animal"
+  },
+  {
+    "id": 7,
+    "name": "Red Sindhi Cow",
+    "type": "Cow",
+    "breed": "Red Sindhi",
+    "price": 140000,
+    "weight": 300,
+    "age": 3,
+    "location": "Chattogram",
+    "description": "Beautiful Red Sindhi cow, healthy ",
+    "image": "https://i.ibb.co/PsmtTsBH/andrey-camara-U-cc6ac5chg-unsplash.jpg",
+    "category": "Large Animal"
+  },
+  {
+    "id": 8,
+    "name": "Jersey Small Cow",
+    "type": "Cow",
+    "breed": "Jersey",
+    "price": 100000,
+    "weight": 250,
+    "age": 2,
+    "location": "Sylhet",
+    "description": "Medium size cow, ready for Qurbani.",
+    "image": "https://i.ibb.co/fGS501nm/leo-manjarrez-jd-B5sk-W6-W8-unsplash.jpg",
+    "category": "Large Animal"
+  }
+
+]
