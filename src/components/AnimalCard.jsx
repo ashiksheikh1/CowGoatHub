@@ -1,7 +1,7 @@
 import "animate.css"
 
 const AnimalCard = async() => {
-    const res= await fetch("http://localhost:3000/animal-data.json",{
+    const res= await fetch("https://my-livestock.vercel.app/animal-data.json",{
       cache: 'no-store'
     })
     const data = await res.json()

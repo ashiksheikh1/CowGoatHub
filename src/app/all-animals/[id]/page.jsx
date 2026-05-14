@@ -3,7 +3,7 @@ import React from 'react';
 
 const DetailsPage = async({params}) => {
     const {id} = await params
-      const res = await fetch("http://localhost:3000/animal-data.json",{
+      const res = await fetch("https://my-livestock.vercel.app/animal-data.json",{
     cache: 'no-store'
   })
   const dataSlice = await res.json()

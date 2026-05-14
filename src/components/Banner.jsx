@@ -5,7 +5,7 @@ export default function Banner() {
     <div className="relative h-[400px] w-ful my-8">
       
       {/* Background Image */}
-      <div className="absolute inset-0 bg-[url('http://localhost:3000/banner.jpg')] bg-cover bg-center"></div>
+      <div className="absolute inset-0 bg-[url('https://my-livestock.vercel.app/banner.jpg')] bg-cover bg-center"></div>
 
       {/* Overlay (optional dark layer) */}
       <div className="absolute inset-0 bg-black/50"></div>
@@ -13,7 +13,7 @@ export default function Banner() {
       {/* Content */}
       <div className="relative z-10 flex h-full flex-col items-center justify-center text-center text-white px-4">
         <h1 className="text-3xl md:text-5xl mb-4 font-bold text-white hover:text-emerald-400 transition">
-         “Farmers carefully raise livestock”
+         Farmers carefully raise livestock !!!
         </h1>
         <p className="mb-6 text-sm md:text-lg text-white hover:text-emerald-400">
          Farmers carefully manage livestock to ensure healthy growth and sustainable food production
