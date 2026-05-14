@@ -1,7 +1,9 @@
 import "animate.css"
 
 const AnimalCard = async() => {
-    const res= await fetch("http://localhost:3000/animal-data.json")
+    const res= await fetch("http://localhost:3000/animal-data.json",{
+      cache: 'no-store'
+    })
     const data = await res.json()
     const dataSlice = data.slice(0,4)
       //  console.log(dataSlice)
